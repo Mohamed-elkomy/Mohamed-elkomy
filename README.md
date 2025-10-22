@@ -33,16 +33,27 @@ I'm actively seeking a challenging developer role where I can leverage my techni
 
 ### ✨ Featured Projects
 
-#### 🧠 Graduation Project (AI/ML)
+#### 🧠 AI & Machine Learning
 * **Face Aging System (GANs):** Developed a generative model using **Python, TensorFlow, and Keras** to synthetically age human facial images. This project involved advanced image processing techniques with **OpenCV**.
 
-#### 📱 Mobile Development
+#### 📱 Mobile Development (Flutter)
 * **Flutter Movie App (Moviez Station):** A graduation project applying **Clean Architecture** principles. Implements complex state management using **BLoC/Provider** and integrates external Movie APIs, **Firebase Authentication**, and **Firestore**.
   * **[Repo Link]** https://github.com/Mohamed-elkomy/Moviez-Station
+* **Movies App:** A cross-platform mobile application developed with **Flutter** for browsing and tracking movies, demonstrating proficiency in handling APIs and designing responsive UIs.
+  * **[Repo Link]** https://github.com/Mohamed-elkomy/movies_app
+
+#### 🤖 Embedded Systems & Robotics
+* **RoboCop (Robot-AI):** A comprehensive robotics project utilizing **C Language** to program an embedded system capable of complex movement and sensor-based decision-making. Focuses on robust hardware-software integration.
+  * **[Repo Link]** https://github.com/Mohamed-elkomy/13.RoboCop
+  * **[Repo Link]** https://github.com/Mohamed-elkomy/4.Robot-AI
 
 #### 🖥️ Front-End Web
 * **E-Commerce Frontend (Nooni):** A fully functional e-commerce UI built using **React.js, HTML, CSS, and JavaScript**. Developed as a capstone project for the Front-End internship.
   * **[Repo Link]** https://github.com/Mohamed-elkomy/nooni
+
+<br>
+
+**💼 For a full list of all my repositories, please visit my [Repositories Page](https://github.com/Mohamed-elkomy?tab=repositories).**
 
 ---
 
@@ -51,6 +62,14 @@ I'm actively seeking a challenging developer role where I can leverage my techni
 * Secure a challenging role as a **Flutter Developer** or **Front-End Engineer** to apply my expertise in scalable solutions.
 * Master **CI/CD pipelines** for mobile deployment and deepen my knowledge in **Clean Architecture**.
 * Continuously learn and contribute to projects in the intersection of Web/Mobile development and **AI/ML**.
+
+---
+
+### 🔥 Latest GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-elkomy&theme=dracula&hide_border=true" alt="Mohamed Elkomy's Activity Graph" />
+</p>
 
 ---
 
