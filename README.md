@@ -46,7 +46,7 @@
 | [MyTours](https://mytourshub.com/) | 9-language tourism platform — audited & refactored | React 19 · Vite · i18next |
 | [FIX Store](https://fix-store.vercel.app/) | E-commerce storefront | React · Redux Toolkit · Embla |
 
-👉 Full list with case studies: **[mohamed-elkomy.vercel.app](https://mohamed-elkomy.vercel.app/)**
+👉 Full list with case studies: **[mohamed-elkomy.vercel.app](https://portfolio-beige-pi-ymybq0xpfb.vercel.app.)**
 
 ---
 
