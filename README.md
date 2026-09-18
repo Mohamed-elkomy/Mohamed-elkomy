@@ -3,7 +3,7 @@
 <p align="center"><i>Building production web applications — ERP dashboards, API-integrated platforms, and bilingual Arabic/English (RTL/LTR) interfaces.</i></p>
 
 <p align="center">
-  <a href="https://mohamed-elkomy.vercel.app/">
+  <a href="[https://mohamed-elkomy.vercel.app/](https://portfolio-beige-pi-ymybq0xpfb.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-magdy-elkomy/">
@@ -46,7 +46,7 @@
 | [MyTours](https://mytourshub.com/) | 9-language tourism platform — audited & refactored | React 19 · Vite · i18next |
 | [FIX Store](https://fix-store.vercel.app/) | E-commerce storefront | React · Redux Toolkit · Embla |
 
-👉 Full list with case studies: **[mohamed-elkomy.vercel.app](https://portfolio-beige-pi-ymybq0xpfb.vercel.app.)**
+👉 Full list with case studies: **[mohamed-elkomy.vercel.app](https://portfolio-beige-pi-ymybq0xpfb.vercel.app/)**
 
 ---
 
