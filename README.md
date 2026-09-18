@@ -3,13 +3,8 @@
 <p align="center"><i>Building production web applications — ERP dashboards, API-integrated platforms, and bilingual Arabic/English (RTL/LTR) interfaces.</i></p>
 
 <p align="center">
-<<<<<<< HEAD
   <a href="https://portfolio-beige-pi-ymybq0xpfb.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-C9A24B?style=for-the-badge&logoColor=white" alt="Visit my portfolio"/>
-=======
-  <a href="[https://mohamed-elkomy.vercel.app/](https://portfolio-beige-pi-ymybq0xpfb.vercel.app/)">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
->>>>>>> 3c05d45c62acbbdfdfd254d15dd85debc609564a
   </a>
 </p>
 
@@ -54,11 +49,7 @@
 | [MyTours](https://mytourshub.com/) | 9-language tourism platform — audited & refactored | React 19 · Vite · i18next |
 | [FIX Store](https://fix-store.vercel.app/) | E-commerce storefront | React · Redux Toolkit · Embla |
 
-<<<<<<< HEAD
 👉 **[Explore all 40+ projects & case studies →](https://portfolio-beige-pi-ymybq0xpfb.vercel.app/work)**
-=======
-👉 Full list with case studies: **[mohamed-elkomy.vercel.app](https://portfolio-beige-pi-ymybq0xpfb.vercel.app/)**
->>>>>>> 3c05d45c62acbbdfdfd254d15dd85debc609564a
 
 ---
 
