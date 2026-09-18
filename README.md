@@ -3,9 +3,12 @@
 <p align="center"><i>Building production web applications — ERP dashboards, API-integrated platforms, and bilingual Arabic/English (RTL/LTR) interfaces.</i></p>
 
 <p align="center">
-  <a href="https://mohamed-elkomy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://portfolio-beige-pi-ymybq0xpfb.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-C9A24B?style=for-the-badge&logoColor=white" alt="Visit my portfolio"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-magdy-elkomy/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -19,19 +22,19 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-elkomy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to%20work-remote%20%7C%20on--site-2ea44f?style=flat" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-full--time%20%7C%20part--time%20%7C%20remote%20%7C%20hybrid-2ea44f?style=flat" alt="Open to work" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 &nbsp;**Frontend Developer / Software Engineer** — shipped **40+ production web applications** with React.js.
+- 💼 &nbsp;**Frontend Developer / Software Engineer at Brmja Tech** — shipped **40+ production web applications** with React.js.
 - 🧩 &nbsp;Built **ERP & admin dashboards** and integrated **16+ front-ends end-to-end with live REST APIs** (auth / OTP flows, role-based views).
 - 🌍 &nbsp;Specialized in **internationalization** — 25+ bilingual Arabic/English interfaces with full **RTL/LTR** support.
 - 🛠️ &nbsp;Comfortable taking over **legacy codebases** and refactoring them — e.g. a 9-language tourism platform (37+ files fixed).
 - 🌱 &nbsp;Currently learning **Node.js & Express** and going deeper on **Next.js** and **TypeScript**.
-- 🎯 &nbsp;Open to **Frontend / Software Engineer** roles — remote, Egypt, or the Gulf.
+- 🎯 &nbsp;**Open to work** — Frontend / Software Engineer roles · full-time or part-time · remote, hybrid, or on-site (Egypt & the Gulf).
 - 📷 &nbsp;Outside code: photography, UI design, reading, gaming, music, and networking & cybersecurity.
 
 ---
@@ -46,7 +49,7 @@
 | [MyTours](https://mytourshub.com/) | 9-language tourism platform — audited & refactored | React 19 · Vite · i18next |
 | [FIX Store](https://fix-store.vercel.app/) | E-commerce storefront | React · Redux Toolkit · Embla |
 
-👉 Full list with case studies: **[mohamed-elkomy.vercel.app](https://mohamed-elkomy.vercel.app/)**
+👉 **[Explore all 40+ projects & case studies →](https://portfolio-beige-pi-ymybq0xpfb.vercel.app/work)**
 
 ---
 
