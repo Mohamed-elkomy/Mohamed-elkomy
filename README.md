@@ -33,6 +33,7 @@
 - 🧩 &nbsp;Built **ERP & admin dashboards** and integrated **16+ front-ends end-to-end with live REST APIs** (auth / OTP flows, role-based views).
 - 🌍 &nbsp;Specialized in **internationalization** — 25+ bilingual Arabic/English interfaces with full **RTL/LTR** support.
 - 🛠️ &nbsp;Comfortable taking over **legacy codebases** and refactoring them — e.g. a 9-language tourism platform (37+ files fixed).
+- 🎓 &nbsp;Completed the **Digitera Program — Technical Track** (iCareer × EraaSoft, Sep 2026): built [Odoratus](https://digiterafrontend.vercel.app/), a full-stack **Next.js + Sanity** perfume store with an owner dashboard, from client requirements to production.
 - 🌱 &nbsp;Currently learning **Node.js & Express** and going deeper on **Next.js** and **TypeScript**.
 - 🎯 &nbsp;**Open to work** — Frontend / Software Engineer roles · full-time or part-time · remote, hybrid, or on-site (Egypt & the Gulf).
 - 📷 &nbsp;Outside code: photography, UI design, reading, gaming, music, and networking & cybersecurity.
