@@ -3,7 +3,7 @@
 <p align="center"><i>Building production web applications — ERP dashboards, API-integrated platforms, and bilingual Arabic/English (RTL/LTR) interfaces.</i></p>
 
 <p align="center">
-  <a href="https://portfolio-beige-pi-ymybq0xpfb.vercel.app/" target="_blank">
+  <a href="https://portfolio-komys-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-C9A24B?style=for-the-badge&logoColor=white" alt="Visit my portfolio"/>
   </a>
 </p>
@@ -50,7 +50,7 @@
 | [MyTours](https://mytourshub.com/) | 9-language tourism platform — audited & refactored | React 19 · Vite · i18next |
 | [FIX Store](https://fix-store.vercel.app/) | E-commerce storefront | React · Redux Toolkit · Embla |
 
-👉 **[Explore all 40+ projects & case studies →](https://portfolio-beige-pi-ymybq0xpfb.vercel.app/work)**
+👉 **[Explore all 40+ projects & case studies →](https://portfolio-komys-projects.vercel.app/work)**
 
 ---
 
